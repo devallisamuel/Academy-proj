@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abfa975d.css",
+    "main.js": "/static/js/main.8f60d582.js",
+    "static/js/787.0276f0d1.chunk.js": "/static/js/787.0276f0d1.chunk.js",
+    "static/media/svg-background.svg": "/static/media/svg-background.b185567c8975f53675f45c4288b2f1bd.svg",
+    "static/media/banner.svg": "/static/media/banner.b5fd044903aa9248e7cfee6318b0d037.svg",
+    "static/media/Jemeelah-3.svg": "/static/media/Jemeelah-3.4f3035d1a86ba36ea0ab0b669e55b745.svg",
+    "static/media/Jemeelah2-1.svg": "/static/media/Jemeelah2-1.5f3560c303d756b596ec957d70d3d68c.svg",
+    "static/media/Jemeelah1-1.svg": "/static/media/Jemeelah1-1.0880a7f3c60d51576ece82388e76d972.svg",
+    "static/media/ErrorPic.png": "/static/media/ErrorPic.3e46012f281a370dd3ee.png",
+    "static/media/atm.svg": "/static/media/atm.1e05cb5dddfc0ee24f129fff574b83eb.svg",
+    "static/media/Multiple.svg": "/static/media/Multiple.1c770e3dfb36c6bd21a1f5687566506f.svg",
+    "static/media/Vector-1.svg": "/static/media/Vector-1.7b64e85e949cebaf5adcd148d5befba9.svg",
+    "static/media/money.svg": "/static/media/money.49023b16b88953e6d78dd786b96a1498.svg",
+    "index.html": "/index.html",
+    "static/media/XMLID_1_.svg": "/static/media/XMLID_1_.f748c122b75e8ca606f0d227a166f16a.svg",
+    "main.abfa975d.css.map": "/static/css/main.abfa975d.css.map",
+    "main.8f60d582.js.map": "/static/js/main.8f60d582.js.map",
+    "787.0276f0d1.chunk.js.map": "/static/js/787.0276f0d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abfa975d.css",
+    "static/js/main.8f60d582.js"
+  ]
+}
